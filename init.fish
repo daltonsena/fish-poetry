@@ -1,6 +1,1 @@
-# poetry initialization hook
-#
-# You can use the following variables in this file:
-# * $package       package name
-# * $path          package path
-# * $dependencies  package dependencies
+set PATH $HOME/.poetry/bin $PATH 2> /dev/null
