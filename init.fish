@@ -1,1 +1,1 @@
-set PATH $HOME/.poetry/bin $PATH 2> /dev/null
+set -Ua fish_user_paths $HOME/.poetry/bin
